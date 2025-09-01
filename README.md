@@ -2,6 +2,6 @@
 
 
 link:
-```html
+```link
 https://airstriker123.github.io/What-Is-a-whale-/
 ```
